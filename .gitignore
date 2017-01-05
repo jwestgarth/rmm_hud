@@ -3,3 +3,4 @@ history.yml
 Gemfile.lock
 /jobs/mysql_db.rb
 /jobs/mssql_db.rb
+/log/thin.log
